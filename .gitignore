@@ -1,2 +1,4 @@
 pytorchupandrunning/
 trainingandtestdata/
+.data/
+.vector_cache/
